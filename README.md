@@ -38,7 +38,7 @@ The dataset is subset of a Global Superstore dataset which is from a global reta
 
 Data source: <https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting>
 
-![summary tab](/www/screenshots/summary-tab.png "Summary Tab")
-![Customer Segment tab](/www/screenshots/Customer-Segment-tab.png "Customer Segment Tab")
-![Product Items tab](/www/screenshots/Product-Items-tab.png "Product Items Tab")
-![Shipping Mode tab](/www/screenshots/Shipping-Mode-tab.png "Shipping Mode Tab")
+![summary tab](/www/screenshots/summary-tab.PNG "Summary Tab")
+![Customer Segment tab](/www/screenshots/Customer-Segment-tab.PNG "Customer Segment Tab")
+![Product Items tab](/www/screenshots/Product-Items-tab.PNG "Product Items Tab")
+![Shipping Mode tab](/www/screenshots/Shipping-Mode-tab.PNG "Shipping Mode Tab")
